@@ -1,4 +1,4 @@
-#API Blip Trigger
+# API Blip Trigger
 
 Esta API fornece um endpoint para acionar mensagens para um chatbot usando a plataforma Blip. Permite enviar mensagens com templates um determinado número de telefone.
 
