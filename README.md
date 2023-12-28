@@ -33,7 +33,11 @@ Esta API fornece um endpoint para acionar mensagens para um chatbot usando a pla
 ```
 
 template: O nome do modelo aprovado na plataforma blip da mensagem a ser enviada.
+
+
 parameters: Nome do destinatario.
+
+
 phone: Número de telefone para o qual a mensagem será enviada.
 
 ## Detalhes do terminal
